@@ -23,7 +23,7 @@
 </header>
 
 <hr>
-<section>
+<main>
 <h2>Who Was Cicero?</h2>
 <figure>
 <img src="images/cicero.jpg" alt="Cicero in the Senate">
@@ -35,7 +35,7 @@ Marcus Tullius Cicero was a Roman statesman, lawyer, political theorist, and phi
 
 <p>
 Cicero is generally seen as one of the most versatile minds of Roman culture and his writing the paragon of Classical Latin. He introduced the Romans to the chief schools of Greek philosophy and created a Latin philosophical vocabulary. An impressive orator and successful lawyer, Cicero likely thought his political career his most important achievement. However, today he is appreciated primarily for his humanism and philosophical and political writings. His voluminous correspondence, much of it addressed to his friend Atticus, has been especially influential, introducing the art of refined letter writing to European culture. Cornelius Nepos, the 1st-century BC biographer of Atticus, remarked that Cicero's letters to Atticus contained such a wealth of detail "concerning the inclinations of leading men, the faults of the generals, and the revolutions in the government" that their reader had little need for a history of the period. </p>
-</section>
+</main>
 
 <hr>
 
